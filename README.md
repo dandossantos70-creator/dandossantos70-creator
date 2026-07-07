@@ -1,4 +1,9 @@
-## 👨🏾‍💻 Dan dos Santos
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Dan+dos+Santos">
+
+</div>
 
 **`Desenvolvedor`**
 
@@ -7,8 +12,8 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 <div align="center">
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=tokyonight"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </a>
 
 </div>
