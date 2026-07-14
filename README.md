@@ -11,9 +11,9 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=shadow_red&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=shadow_red&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -48,6 +48,5 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 </a>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Ouvir-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P?si=529qJE_UQKSDdlph3sHPog&utm_source=copy-link)
 </p>
 
