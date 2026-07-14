@@ -39,7 +39,7 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:dandossantos70@gmail.com">
+<a href="mailto:dandossantos70@email.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
