@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Dan+dos+Santos">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=350&lines=Dan+dos+Santos">
 
 </div>
 
@@ -11,10 +11,9 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 
 <div align="center">
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</a>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=dark&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=dark&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -31,15 +30,24 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 ##
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandossantos70-creator&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandossantos70-creator&theme=redical&hide_border=true"/>
 </p>
 
+
+
 <p>
-<a href="www.linkedin.com/in/dan-dos-santos-78643636a">
+<a href="https://www.linkedin.com/in/dan-dos-santos-78643636a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dandossantos70@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://[SEUUSUARIO.itch.io](https://dan-dos-santos.itch.io/)">
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+</a>
+
+[![Spotify](https://img.shields.io/badge/Spotify-Ouvir-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P?si=529qJE_UQKSDdlph3sHPog&utm_source=copy-link)
 </p>
+
