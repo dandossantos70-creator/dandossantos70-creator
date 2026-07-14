@@ -7,7 +7,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computação na Universidade Federal Fluminense (UFF). Atualmente estou no segundo período do curso e venho construindo minha trajetória na área por meio de projetos práticos e do estudo de programação. Tenho interesse em desenvolvimento de software e desenvolvimento de jogos, utilizando tecnologias como C, Python e Pygame. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e criar projetos que contribuam para o meu crescimento como desenvolvedor.
+Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computação. Atualmente estou no segundo período do curso e venho construindo minha trajetória na área por meio de projetos práticos e do estudo de programação. Tenho interesse em desenvolvimento de software e desenvolvimento de jogos, utilizando tecnologias como C, Python e Pygame. Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e criar projetos que contribuam para o meu crescimento como desenvolvedor.
 
 <div align="center">
 
@@ -27,6 +27,13 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
           
 </div>
 
+## 
+
+- 🎓 Estudante de Ciência da Computação na UFF
+- 🎮 Desenvolvendo jogos com Python e Pygame
+- 💻 Aprendendo desenvolvimento de software
+- 📚 Estudando algoritmos e estruturas de dados
+
 ##
 
 <p align="center">
@@ -41,12 +48,11 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 </a>
 
 <a href="mailto:dandossantos70@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-B30000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://dan-dos-santos.itch.io/">
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Itch.io-B30000?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 </a>
 
 </p>
-
