@@ -44,7 +44,7 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://[SEUUSUARIO.itch.io](https://dan-dos-santos.itch.io/)">
+<a href="https://dan-dos-santos.itch.io/">
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 </a>
 
