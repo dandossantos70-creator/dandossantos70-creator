@@ -34,6 +34,12 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 - 💻 Aprendendo desenvolvimento de software
 - 📚 Estudando algoritmos e estruturas de dados
 
+ <div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4eWZkZjNkcGtiejc1Zml0NDFicjZ2bHdjN2F0MnZnMXowN2wyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrBI5oXhFo1Md7cO9X/giphy.gif" width="300">
+
+</div>
+
 ##
 
 <p align="center">
