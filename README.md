@@ -35,7 +35,7 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 </p>
 
 <p>
-<a href="https://linkedin.com/in/seu-perfil">
+<a href="www.linkedin.com/in/dan-dos-santos-78643636a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
