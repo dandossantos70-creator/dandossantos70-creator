@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=350&lines=Dan+dos+Santos">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=350&lines=Dan+dos+Santos">
 
 </div>
 
@@ -11,9 +11,9 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=shadow_red&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=shadow_red&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandossantos70-creator&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -34,7 +34,7 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 - 💻 Aprendendo desenvolvimento de software
 - 📚 Estudando algoritmos e estruturas de dados
 
- <div align="center">
+<div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4eWZkZjNkcGtiejc1Zml0NDFicjZ2bHdjN2F0MnZnMXowN2wyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrBI5oXhFo1Md7cO9X/giphy.gif" width="300">
 
@@ -43,22 +43,7 @@ Me chamo Dan dos Santos, tenho 20 anos e sou estudante de Ciência da Computaç�
 ##
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandossantos70-creator&theme=redical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandossantos70-creator&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
-
-<p>
-<a href="https://www.linkedin.com/in/dan-dos-santos-78643636a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dandossantos70@email.com">
-<img src="https://img.shields.io/badge/Gmail-B30000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://dan-dos-santos.itch.io/">
-<img src="https://img.shields.io/badge/Itch.io-B30000?style=for-the-badge&logo=itchdotio&logoColor=white"/>
-</a>
-
-</p>
+<p> <a href="https://www.linkedin.com/in/dan-dos-santos-78643636a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dandossantos70@email.com"> <img src="https://img.shields.io/badge/Gmail-B30000?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://dan-dos-santos.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-B30000?style=for-the-badge&logo=itchdotio&logoColor=white"/> </a> </p>
